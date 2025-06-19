@@ -72,14 +72,15 @@ Water-Quality-Prediction_AICTE/
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-
-```bash
 git clone https://github.com/AmitAK1/Water-Quality-Prediction_AICTE.git
+
 cd Water-Quality-Prediction_AICTE
+
 2. Install dependencies
 Make sure you have Python 3.12+ installed. Then run:
 
 pip install -r requirements.txt
+
 3. Run the notebook
 Open the main notebook in Jupyter:
 
@@ -106,4 +107,4 @@ Integrate with sensor data for real-time predictions
 
 👤 Author
 Amit Kamble
-🌐 GitHub Profile
+🌐 https://github.com/AmitAK1/Water-Quality-Prediction_AICTE
