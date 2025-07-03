@@ -2,6 +2,7 @@
 
 This project predicts multiple water quality parameters using machine learning techniques, specifically a `MultiOutputRegressor` wrapped around a `RandomForestRegressor`. It was developed as part of the AICTE Virtual Internship conducted by Edunet Foundation and sponsored by Shell in June 2025.
 
+Live Demo: https://water-quality-predictionaicte-shnhd9rzxyjkgakhyzgyah.streamlit.app/
 ---
 
 ## 🌍 Overview
