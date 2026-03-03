@@ -1,0 +1,7 @@
+# Large model file — hosted on Google Drive, downloaded by app.py at runtime
+pollution_model_v2.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
