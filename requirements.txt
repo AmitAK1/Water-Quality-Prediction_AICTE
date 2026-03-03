@@ -3,4 +3,4 @@ pandas
 numpy
 joblib
 gdown
-scikit-learn
+scikit-learn==1.8.0
